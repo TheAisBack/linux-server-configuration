@@ -13,12 +13,12 @@
 3. Locate the SSH key you created for the grader user.
 4. During the submission process, paste the contents of the grader user's SSH key into the "Notes to Reviewer" field.
 
-![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png")
-![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png")
-![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png")
-![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png")
-![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png")
-![6.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png "6.png")
-![7.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png "7.png")
-![8.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png "8.png")
-![9.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png "9.png")
+![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png" =100x200)
+![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png" =100x200)
+![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png" =100x200)
+![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png" =100x200)
+![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png" =100x200)
+![6.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png "6.png" =100x200)
+![7.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png "7.png" =100x200)
+![8.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png "8.png" =100x200)
+![9.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png "9.png" =100x200)
