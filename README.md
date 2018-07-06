@@ -15,7 +15,8 @@
 
 ## How it was Created?
 
-![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png"){:height="36px" width="36px"}
+![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png")
+<img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png" width="200" height="200" />
 ![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png")
 ![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png")
 ![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png")
