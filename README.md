@@ -5,20 +5,22 @@
 1. Create a new GitHub repository and add a file named README.md.
 2. Your README.md file should include all of the following:
 
-  i.   The IP address and SSH port so your server can be accessed by the reviewer.
-  ii.  The complete URL to your hosted web application.
-  iii. A summary of software you installed and configuration changes made.
-  iv.  A list of any third-party resources you made use of to complete this project.
+        i.   The IP address and SSH port so your server can be accessed by the reviewer.
+        ii.  The complete URL to your hosted web application.
+        iii. A summary of software you installed and configuration changes made.
+        iv.  A list of any third-party resources you made use of to complete this project.
 
 3. Locate the SSH key you created for the grader user.
 4. During the submission process, paste the contents of the grader user's SSH key into the "Notes to Reviewer" field.
 
-![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png") {height="100" width="200"}
-![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png") {height="100" width="200"}
-![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png") {height="100" width="200"}
-![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png") {height="100" width="200"}
-![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png") {height="100" width="200"}
-![6.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png "6.png") {height="100" width="200"}
-![7.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png "7.png") {height="100" width="200"}
-![8.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png "8.png") {height="100" width="200"}
-![9.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png "9.png") {height="100" width="200"}
+## How it was Created?
+
+![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png"){:height="36px" width="36px"}
+![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png")
+![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png")
+![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png")
+![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png")
+![6.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png "6.png")
+![7.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png "7.png")
+![8.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png "8.png")
+![9.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png "9.png")
