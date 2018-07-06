@@ -13,8 +13,8 @@
 3. Locate the SSH key you created for the grader user.
 4. During the submission process, paste the contents of the grader user's SSH key into the "Notes to Reviewer" field.
 
-![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png" =100x200)
-![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png" =100x200)
+![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png" height="100" width="200")
+![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png") {height="100" width="200")
 ![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png" =100x200)
 ![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png" =100x200)
 ![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png" =100x200)
