@@ -15,13 +15,14 @@
 
 ## How it was Created?
 
-![1.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png "1.png")
-<img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png" width="200" height="200" />
-![2.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png "2.png")
-![3.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png "3.png")
-![4.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png "4.png")
-![5.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png "5.png")
-![6.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png "6.png")
-![7.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png "7.png")
-![8.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png "8.png")
-![9.png](https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png "9.png")
+<p align="center">
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/1.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/2.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/3.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png" width="200" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png" width="200" height="200" />
+</p>
