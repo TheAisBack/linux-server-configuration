@@ -28,16 +28,13 @@
   <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png" width="500" height="400" />
 </p>
 <p align="center">
-  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/5.png" width="700" height="600" />
-</p>
-<p align="center">
-  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png" width="500" height="250" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png" width="600" height="250" />
 </p>
 <p align="center">
   <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png" width="500" height="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png" width="700" height="600" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/8.png" width="700" height="800" />
 </p>
 <p align="center">
   <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/9.png" width="600" height="500" />
