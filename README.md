@@ -28,7 +28,7 @@
   <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/4.png" width="500" height="400" />
 </p>
 <p align="center">
-  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png" width="550" height="200" />
+  <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/6.png" width="500" height="200" />
 </p>
 <p align="center">
   <img src="https://github.com/TheAisBack/linux-server-configuration/blob/master/img/7.png" width="500" height="200" />
